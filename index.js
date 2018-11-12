@@ -1,6 +1,9 @@
 var spigot = require("stream-spigot")
 
 var faces = [
+  "( * - * )"
+  "(=_ = )"
+  "(  ._.)"
   "( .-. )",
   "( .o.)",
   "( `·´ )",
